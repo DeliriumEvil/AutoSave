@@ -1,5 +1,5 @@
-# AutoSave
-AutoSave FTC RO038 TEAM 
+# SaveFile FTC RO038 TEAM - ROBOTX HUNEDOARA
+Save PROGRESS FTC RO038 TEAM 
 
 Acesta este un simplu repository pentru saving la programele ce le vom folosii in programarea robotului , aici vor intra fisiere text , diferite poze pe care le gasim relevante la progresul programului , pe langa programul propriu-zis , alaturi de sdk-uri diferite si frame-uri custom realizate de noi.
 
